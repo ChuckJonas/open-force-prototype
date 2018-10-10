@@ -4,7 +4,8 @@
     "repositories": [
       "jsonparse",
       "Httpex",
-      "grid"
+      "grid",
+      "apexsharp"
     ]
   },
   {
